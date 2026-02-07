@@ -348,4 +348,3 @@ Once comfortable with these tools, you can:
 They are **core skills** for any serious bioinformatician.
 
 
-This is where your repo becomes *very domain-specific* 🧬
